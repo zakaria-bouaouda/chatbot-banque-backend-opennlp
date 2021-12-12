@@ -1,0 +1,12 @@
+greeting	 hi hi. hello how are you ? hey . hows it going good morning good evening good afternoon howdy 
+conversation-continue	 ok wow great oh is it ? oh ohh Thats great Good Really hmm lemme think hm hmmm hmmmmm
+price-inquiry	 How much is the cost ? What's the price ? What's the cost ? How much is price? How much it costs ? price cost money how much. how much?
+product-inquiry	 What is this product ? What's the product ? What does this product do ? What is name of product ? What this product is all about? Can you tell me something about this product ? What are the product features ? Tell me feature of product. 
+conversation-complete	 Thanks done that's all thats it. thats it I am done Thank you for information Thank. thanks. thank you. thanks nothing else thats it.
+salutation	 bonjour boonjour. cv bonsoir salut alors 
+compte	 je veux un compte bancaire ? comment creer un nouveau compte ? c'est quoi la procedure de creation de compte ? new account carte bancaire 
+transfert    transfert. changer agence. transferer mon compte Puis-je transférer mon Compte courant d'une agence à une autre ? Quelles démarches dois-je effectuer en cas de perte de ma carte ?
+perte-de-carte	 comment faire si je perds ma carte ? j'ai perdu ma carte!! carte perdue!! comment avoir une nouvelle carte?
+recherche	 recherche agence plus proche c'est où je peux trouver banque plus proche ? lieu endroi place localisation direction c'est où ? 
+eljadida	 je cherhe une agence à el jadida recherche agence el jadida EL Jadida ELJADIDA Eljadida ville centre ville agence je veux l'agence bancaire centrale d'el jadida
+rabat     rabat Rabat Salé RABAT je cherhe une agence à rabat agence bancaire rabat
